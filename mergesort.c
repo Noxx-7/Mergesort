@@ -66,3 +66,4 @@ int main(void)
         printf("%d ", array1[i]);
     }
 }
+// hey this code is belong to rahul sharma dont miss use this. This code is made for educational purposes.
